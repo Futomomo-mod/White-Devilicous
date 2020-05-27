@@ -1,3 +1,3 @@
-module.exports = function White-Devilicous(mod) {
+module.exports = function White_Devilicous(mod) {
     mod.installGPK("PC_Event_16.gpk");
 }
