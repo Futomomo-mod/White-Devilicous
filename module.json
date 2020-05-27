@@ -1,0 +1,14 @@
+{
+    "author": "Futomomo",
+    "category": "client",
+    "description": "A recolor of the basic Devilicous",
+    "disableAutoUpdate": false,
+    "name": "White Devilicous",
+    "options": {
+        "guiName": "Costume: White Devilicous",
+        "niceName": "White Devilicous"
+    },
+    "servers": [
+        "https://raw.githubusercontent.com/Futomomo-mod/White-Devilicous/master/"
+    ]
+}
